@@ -1,11 +1,16 @@
 _repo: Ruth-Fielding-of-the-Red-Mill--Or-Jasper-Parloe-s-Secret_4985
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Emerson, Alice B.
     gutenberg_agent_id: '1619'
     url: http://www.gutenberg.org/2009/agents/1619
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4985#Ruth-Fielding-of-the-Red-Mill--Or-Jasper-Parloe-s-Secret
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
